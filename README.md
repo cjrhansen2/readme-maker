@@ -10,5 +10,7 @@ Use `npm init` to initialize, then `npm install inquirer` to get inquirer depend
 ## Usage
 Link to video running project from the command line: https://drive.google.com/file/d/1tryS_kYvbPlQ6k2OawRN1NmQGBgEOdf6/view
 
+![](Untitled_ Dec 17, 2020 5_01 PM.gif)
+
 ## Credits
 Code by CJ Hansen: https://github.com/cjrhansen2
