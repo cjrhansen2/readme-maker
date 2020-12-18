@@ -106,6 +106,6 @@ inquirer.prompt([
 .then((data) => {
     const filename = 'readme-output/README.md'
     fs.writeFile(filename, makeReadme(data), (err) =>
-        err ? console.log(err) : console.log('README.md created! Can be found in file readme-output')
+        err ? console.log(err) : console.log('README.md created! Can be found in the local folder readme-output')
     );
 });
