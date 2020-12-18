@@ -5,7 +5,7 @@ This is a simple program using node.js from the command line that allows you to 
 
 ## Installation
 Download the files and open them in a new terminal window. 
-Use `npm install inquirer` to get inquirer dependencies. Then run `node index.js`
+Use `npm init` to initialize, then `npm install inquirer` to get inquirer dependencies. Then run `node index.js`
 
 ## Usage
 Link to video running project from the command line: https://drive.google.com/file/d/1tryS_kYvbPlQ6k2OawRN1NmQGBgEOdf6/view
